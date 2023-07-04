@@ -1,0 +1,297 @@
+﻿@model Customer
+
+<!-- slider -->
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="~/img/vp.jpg" class="d-block  "  alt="vp" style=" width: 100%;
+        height: auto;
+        object-fit: cover;">
+        </div>
+
+    </div>
+</div>
+
+
+
+<!-- hot sales -->
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+    <h1 class="text-center m-5 fs-1 fw-bold">Ưu đãi lớn khi mở thẻ</h1>
+    <div style="display: flex; justify-content: center">
+        <img src="~/img/banner.jpg" alt="bannervp" style="width: 864px; height: 377px;">
+    </div>
+    <div class="row">
+        <div class="col-6 my-4">
+            <h6 class="fs-6 fw-light">Nhận E-Voucher giảm giá 30% tới</h6>
+            <h1 class="text-success fw-bolder">500.000đ</h1>
+            <span class="fs-6 fw-medium">Khi kích hoạt thẻ thành công</span>
+        </div>
+
+        <div class="col-6 my-4">
+            <h6 class="fs-6 fw-light " style="white-space: nowrap;">Khi chi tiêu 2.000.000đ trong 30 ngày đầu</h6>
+            <h1 class="text-success fw-bolder">1.000.000đ</h1>
+            <span class="fs-6 fw-medium" style="white-space: nowrap;">Hoàn thêm ngay (Số lượng có hạn)</span>
+        </div>
+    </div>
+
+    <!-- <div class="row">
+        <div class="col-6 my-4 ">
+
+        </div>
+        <div class="col-6 my-4  ">
+
+        </div>
+
+
+    </div> -->
+    <h1 class="text-center m-5 fs-1 fw-bold">Đa dạng loại thẻ để bạn lựa chọn</h1>
+</div>
+<div class="container text-center">
+    <div class="row row-cols-2">
+        <div class="col">
+            <img src="~/img/the.jpg" alt="thẻ vp lady" style="width: 475px; height: 296px;">
+            <div style="display: flex; flex-direction: column; align-items: flex-start;margin-top: 13px;
+				margin-left: 104px;">
+                <h4 class="fs-6">
+                    <span class="fw-bold">•</span>
+                    <span class="fw-bold">Hoàn đến</span>
+                    <span style="color: darkgreen;">15%</span>
+                    cho các chi tiêu bảo hiểm trực tiếp, giáo dục
+                </h4>
+                <h4 class="fs-6">
+                    <span class="fw-bold">•</span>
+                    <span class="fw-bold">Hoàn đến</span>
+                    <span style="color: darkgreen;">10%</span>
+                    cho các chi tiêu sắc đẹp, y tế
+                </h4>
+                <h4 class="fs-6">
+                    <span class="fw-bold">•</span>
+                    <span class="fw-bold">Hoàn đến</span>
+                    <span style="color: darkgreen;">5%</span>
+                    cho chi tiêu siêu thị
+                </h4>
+
+            </div>
+            <div>
+                <button class="btn btn-success w-50" style="border-radius: 20px;">MỞ THẺ NGAY</button>
+            </div>
+        </div>
+
+
+        <div class="col">
+            <img src="~/img/the2.jpg" alt="thẻ platinum cashback" style='width: 475px;height: 296px;'>
+            <div style="display: flex; flex-direction: column; align-items: flex-start;margin-top: 13px;
+			margin-left: 104px;">
+                <h4 class="fs-6">
+                    <span class="fw-bold">•</span>
+                    <span class="fw-bold">Hoàn đến</span>
+                    <span style="color: darkgreen;">2.000.000đ/kỳ sao kê</span>
+                    cho mọi lĩnh vực chi tiêu
+                </h4>
+                <h4 class="fs-6">
+                    <span class="fw-bold">•</span>
+                    <span class="fw-bold">Chi Tiêu nước ngoài </span>
+
+                    được hoàn tiền nhân đôi
+                </h4>
+
+
+            </div>
+            <div>
+                <button class="btn btn-success w-50 " style="border-radius: 20px;margin-top: 21px;">MỞ THẺ NGAY</button>
+            </div>
+        </div>
+        <div class="col ">
+            <img src="~/img/the3.jpg" alt="thẻ platinum TravelMiles" style='width: 475px;height: 296px;margin-top: 40px;'>
+            <div style="display: flex; flex-direction: column; align-items: flex-start;margin-top: 13px;
+			margin-left: 104px;">
+                <h4 class="fs-6">
+                    <span class="fw-bold">•</span>
+                    <span class="fw-bold">Đổi Tranvel Miles</span>
+                    nhiều Hàng không và khách sạn trên toàn cầu
+                </h4>
+                <h4 class="fs-6">
+                    <span class="fw-bold">•</span>
+                    <span class="fw-bold">Cộng dặm</span>
+                    lên đến 4.000.000 VP Travel Miles/kỳ sao kê
+                </h4>
+
+
+            </div>
+            <div>
+                <button class="btn btn-success w-50 " style="border-radius: 20px;margin-top: 20px;">MỞ THẺ NGAY</button>
+            </div>
+        </div>
+        <div class="col">
+            <img src="~/img/the4.jpg" alt="thẻ Signature travel miles" style='width: 475px;height: 296px; margin-top: 40px;'>
+            <div style="display: flex; flex-direction: column; align-items: flex-start;margin-top: 13px;
+			margin-left: 104px;">
+                <h4 class="fs-6">
+                    <span class="fw-bold">•</span>
+                    <span class="fw-bold">Đổi Tranvel Miles</span>
+                    nhiều Hàng không và khách sạn trên toàn cầu
+                </h4>
+                <h4 class="fs-6">
+                    <span class="fw-bold">•</span>
+                    <span class="fw-bold">Cộng dặm</span>
+                    lên đến 6.000.000 VP Travel Miles/kỳ sao kê
+                </h4>
+
+
+            </div>
+            <div>
+                <button class="btn btn-success w-50 " style="border-radius: 20px; margin-top: 20px;">MỞ THẺ NGAY</button>
+            </div>
+        </div>
+    </div>
+</div>
+    </div>
+  
+
+<div class="bg-black my-5 " style=" height: 1115px;">
+    <h1 class="fs-3 text-center " style="color: aliceblue;padding: 5px;">Đăng ký mở thẻ ngay để nhận thêm nhiều ưu đãi</h1>
+    <div style="display: flex; justify-content: center; padding: 19px;">
+        <img src="~/img/logovp.jpg" alt="logo" style="width: 15%;">
+    </div>
+    <div style="display: flex; justify-content: center; align-items: center; margin-top: 30px; margin-left: auto; margin-right: auto; width: 938px; height: 422px; border-radius: 10px; border: solid green;">
+
+        <div class="row mx-4">
+            <div style="margin-left: 231px;
+			width: 51%;
+			height: 61px;
+			margin-top: -71px;
+			border-radius: 26px;
+			border: solid rgb(251, 251, 251);
+			background:linear-gradient(90deg, #1F9603 14.3%, #093964 83.25%),linear-gradient(0deg, #FFFFFF, #FFFFFF);;">
+                <h1 class="text-white text-center " style="font-size:35px;padding: 3px;">Nhập thông tin mở thẻ</h1>
+
+            </div>
+
+            <div class="col-6" style="color: aliceblue; border-right: 3px solid rgb(1, 255, 56); ">
+                <h1 class="fs-3">ĐIỀU KIỆN MỞ THẺ</h1>
+                <div class="d-flex">
+                    <img class="mx-2" src="~/img/cham.jpg" alt="" style="width: 20px; height: 20px;border-radius: 50%;">
+                    <h3 class="fs-6">Chỉ cần trong đội tuổi từ 22 - 60</h3>
+                </div>
+                <div class="d-flex ">
+                    <i class="fa-solid fa-location-dot mx-2 fs-4"></i>
+                    <h3 class="fs-6">Lưu Trú trong 30 tỉnh/thành</h3>
+
+                </div>
+
+                <p class="fs-6 mt-3">
+                    Hồ Chí Minh, Hà Nội, Đà Nẵng, Cần Thơ, Hải Phòng,
+                    An Giang, Bà Rịa - Vũng Tàu, Bắc Giang, Bắc Ninh,
+                    Bình Định, Bình Dương, Bình Phước, Đắk Lắk, Đồng
+                    Nai, Hưng Yên, Khánh Hòa, Kiên Giang, Lâm Đồng,
+                    Lào Cai, Long An, Nghệ An, Quảng Nam, Quảng
+                    Ninh, Tây Ninh, Thái Bình, Thái Nguyên, Thanh Hóa,
+                    Thừa Thiên Huế, Tiền Giang, Vĩnh Phúc
+                </p>
+            </div>
+              <div class="col-6">
+                <form asp-action="Create" >
+                   
+                    <input asp-for="Name" type="text" class="form-control mt-3" placeholder="Nhập họ tên của bạn">
+                    <input asp-for="Phone" type="text" class="form-control mt-3" placeholder="Nhập số điện thoại của bạn">
+                    <div class="row">
+                        <div class="col mt-3">
+                            <select asp-for="Address" class="form-select" aria-label="Default select example">
+                                <option selected >Chọn tỉnh/thành lưu trú</option>
+                                <option value="Nam Định">Nam Định</option>
+                                <option value="Hà Nội">Hà Nội</option>
+                                <option value="Thái Bình">Thái Bình</option>
+                                <option value="Nghệ An">Nghệ An</option>
+                            </select>
+                        </div>
+                        <div class="col">
+                            <input asp-for="ReferralCode" type="number" class="form-control mt-3" placeholder="Nhập mã giới thiệu (Nếu có)">
+                        </div>
+                        <div class="row mt-3 ">
+                            <div class="col ">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" id="gridCheck1">
+                                    <label class="form-check-label" for="gridCheck1" style="color: aliceblue;">
+                                        Tôi trong độ tuổi 22 - 60
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="d-flex justify-content-center">
+                            <button onclick="validateForm()" type="submit" class="btn btn-success w-75" style="border-radius: 20px; margin-top: 20px;">MỞ THẺ NGAY</button>
+                        </div>
+                        <p class="text-white fw-light text-center mt-3 " style="font-size: 15px;">
+                            Bằng việc nhấn chọn đăng ký, tôi đồng ý cho Hoàng Hà Mobile
+                            <br />được chuyển thông tin đăng ký thẻ tín dụng cho VP Bank
+                        </p>
+
+                    </div>
+              
+            </form>
+                </div>
+            
+        </div>
+
+
+
+    </div>
+    <div class="container bg-white mt-4   " style="border-radius:5px;height: 40%;">
+        <div>
+            <h1 class="fs-2 mx-3 ">Câu hỏi thường gặp</h1>
+
+        </div>
+
+        <hr>
+        <div class="d-flex align-items-center">
+            <i class="fa-solid fa-question fa-xs fs-3 mx-3"></i>
+            <h5 class="mb-0">Tôi có mất phí gì khi mở thẻ không?</h5>
+            <i class="fa-solid fa-circle-plus ms-auto fs-2"></i>
+        </div>
+
+
+
+        <hr>
+        <div class="d-flex align-items-center">
+            <i class="fa-solid fa-question fa-xs fs-3 mx-3"></i>
+            <h5 class="mb-0">Tôi cần những điều kiện gì để được mở thẻ?</h5>
+            <i class="fa-solid fa-circle-plus ms-auto fs-2"></i>
+        </div>
+
+
+        <hr>
+        <div class="d-flex align-items-center">
+            <i class="fa-solid fa-question fa-xs fs-3 mx-3"></i>
+            <h5 class="mb-0">Nếu tôi lỡ tắt màn hình khi đang thao tác mở thẻ, cần làm gì để có thể thao tác tiếp để hoàn thiện hồ sơ?</h5>
+            <i class="fa-solid fa-circle-plus ms-auto fs-2"></i>
+        </div>
+
+        <hr>
+        <div class="d-flex align-items-center">
+            <i class="fa-solid fa-question fa-xs fs-3 mx-3"></i>
+            <h5 class="mb-0">Tôi muốn sử dụng mã voucher cần làm như thế nào?</h5>
+            <i class="fa-solid fa-circle-plus ms-auto fs-2"></i>
+        </div>
+
+        <hr>
+        <div class="d-flex align-items-center">
+            <i class="fa-solid fa-question fa-xs fs-3 mx-3"></i>
+            <h5 class="mb-0">Khi có voucher, tôi có cần bắt buộc phải dùng thẻ vừa đăng kí mới mua hàng không?</h5>
+            <i class="fa-solid fa-circle-plus ms-auto fs-2"></i>
+        </div>
+
+        <hr>
+        <div class="d-flex align-items-center">
+            <i class="fa-solid fa-question fa-xs fs-3 mx-3"></i>
+            <h5 class="mb-0">Sau khi hoàn tất việc đăng kí mở thẻ, tôi phải làm thế nào để biết định mức vay tiêu dùng?</h5>
+            <i class="fa-solid fa-circle-plus ms-auto fs-2"></i>
+        </div>
+        <h5></h5>
+
+    </div>
+
+</div>
+
+
+
+
+

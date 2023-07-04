@@ -1,0 +1,457 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\malino.bundle.scp.css",
+      "PackagePath": "staticwebassets\\malino.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\css\\1000px.css",
+      "PackagePath": "staticwebassets\\css\\1000px.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\css\\SegieUI.css",
+      "PackagePath": "staticwebassets\\css\\SegieUI.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\css\\hoangha.css",
+      "PackagePath": "staticwebassets\\css\\hoangha.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\fonts\\SegieUI.css",
+      "PackagePath": "staticwebassets\\fonts\\SegieUI.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\fonts\\icon\\css\\hoangha.css",
+      "PackagePath": "staticwebassets\\fonts\\icon\\css\\hoangha.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\fonts\\icon\\fonts\\hoangha.eot",
+      "PackagePath": "staticwebassets\\fonts\\icon\\fonts\\hoangha.eot"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\fonts\\icon\\fonts\\hoangha.svg",
+      "PackagePath": "staticwebassets\\fonts\\icon\\fonts\\hoangha.svg"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\fonts\\icon\\fonts\\hoangha.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icon\\fonts\\hoangha.ttf"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\fonts\\icon\\fonts\\hoangha.woff",
+      "PackagePath": "staticwebassets\\fonts\\icon\\fonts\\hoangha.woff"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\img\\Miband 4-01.png",
+      "PackagePath": "staticwebassets\\img\\Miband 4-01.png"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\img\\banner.jpg",
+      "PackagePath": "staticwebassets\\img\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\img\\cham.jpg",
+      "PackagePath": "staticwebassets\\img\\cham.jpg"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\img\\fire.svg",
+      "PackagePath": "staticwebassets\\img\\fire.svg"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\img\\logo-atm.png",
+      "PackagePath": "staticwebassets\\img\\logo-atm.png"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\img\\logo-bct.png",
+      "PackagePath": "staticwebassets\\img\\logo-bct.png"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\img\\logo-jcb.png",
+      "PackagePath": "staticwebassets\\img\\logo-jcb.png"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\img\\logo-kerry.png",
+      "PackagePath": "staticwebassets\\img\\logo-kerry.png"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\img\\logo-master.png",
+      "PackagePath": "staticwebassets\\img\\logo-master.png"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\img\\logo-samsungpay.png",
+      "PackagePath": "staticwebassets\\img\\logo-samsungpay.png"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\img\\logo-text.png",
+      "PackagePath": "staticwebassets\\img\\logo-text.png"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\img\\logo-viettel.png",
+      "PackagePath": "staticwebassets\\img\\logo-viettel.png"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\img\\logo-visa.png",
+      "PackagePath": "staticwebassets\\img\\logo-visa.png"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\img\\logo-vnpay.png",
+      "PackagePath": "staticwebassets\\img\\logo-vnpay.png"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\img\\logovp.jpg",
+      "PackagePath": "staticwebassets\\img\\logovp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\img\\seo-content.png",
+      "PackagePath": "staticwebassets\\img\\seo-content.png"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\img\\spin.svg",
+      "PackagePath": "staticwebassets\\img\\spin.svg"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\img\\sub-logo.png",
+      "PackagePath": "staticwebassets\\img\\sub-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\img\\the.jpg",
+      "PackagePath": "staticwebassets\\img\\the.jpg"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\img\\the2.jpg",
+      "PackagePath": "staticwebassets\\img\\the2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\img\\the3.jpg",
+      "PackagePath": "staticwebassets\\img\\the3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\img\\the4.jpg",
+      "PackagePath": "staticwebassets\\img\\the4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\img\\vp.jpg",
+      "PackagePath": "staticwebassets\\img\\vp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\js\\jquery-3.5.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.5.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\js\\plugins\\OwlCarousel2-2.3.4\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\js\\plugins\\OwlCarousel2-2.3.4\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\js\\plugins\\OwlCarousel2-2.3.4\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\OwlCarousel2-2.3.4\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\js\\plugins\\OwlCarousel2-2.3.4\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\OwlCarousel2-2.3.4\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\js\\plugins\\OwlCarousel2-2.3.4\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\OwlCarousel2-2.3.4\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\js\\plugins\\OwlCarousel2-2.3.4\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\OwlCarousel2-2.3.4\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\js\\plugins\\OwlCarousel2-2.3.4\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\OwlCarousel2-2.3.4\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\js\\plugins\\OwlCarousel2-2.3.4\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\js\\plugins\\OwlCarousel2-2.3.4\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\js\\plugins\\OwlCarousel2-2.3.4\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\js\\plugins\\OwlCarousel2-2.3.4\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\js\\plugins\\OwlCarousel2-2.3.4\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\OwlCarousel2-2.3.4\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\js\\plugins\\OwlCarousel2-2.3.4\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\OwlCarousel2-2.3.4\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\js\\plugins\\jquery-scrolltofixed\\jquery-scrolltofixed.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery-scrolltofixed\\jquery-scrolltofixed.js"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\js\\plugins\\jssor.slider-28.0.0.min\\jssor.slider-28.0.0.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jssor.slider-28.0.0.min\\jssor.slider-28.0.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\js\\validate.js",
+      "PackagePath": "staticwebassets\\js\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\malino\\Desktop\\code\\malino\\malino\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.malino.props",
+      "PackagePath": "build\\malino.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.malino.props",
+      "PackagePath": "buildMultiTargeting\\malino.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.malino.props",
+      "PackagePath": "buildTransitive\\malino.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.malino.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
